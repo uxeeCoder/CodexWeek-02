@@ -1,0 +1,75 @@
+h1 {
+  background-color: blue;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#test {
+  background-color: rgb(247, 110, 163);
+  position: relative;
+  height: 100vh;
+}
+
+p {
+  color: rgb(241, 157, 157);
+  padding: 5px;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 10px;
+  width: 400px;
+  height: 200px;
+}
+
+.p1 {
+  background-color: rgb(79, 92, 8);
+  position: relative;
+  top: 40px;
+  left: 40px;
+}
+
+.p2 {
+  background-color: cadetblue;
+  position: absolute;
+  top: 30px;
+  left: 90px;
+}
+
+.p3 {
+  background-color: rgb(216, 27, 27);
+  position: fixed;
+}
+
+.p4 {
+  background-color: rgb(121, 121, 69);
+  position: sticky;
+
+  top: 55px;
+  left: 20px;
+}
+.p5 {
+  background-color: rgb(65, 65, 12);
+  display: block;
+}
+.p6 {
+  background-color: rgb(248, 248, 209);
+  display: inline-block;
+}
+.p7 {
+  background-color: rgb(84, 160, 97);
+  display: inline;
+}
+.p8 {
+  background-color: rgb(189, 60, 9);
+  display: none;
+}
+.p9 {
+  background-color: rgb(88, 8, 58);
+  position: static;
+}
+.p9 {
+  background-color: rgb(29, 140, 204);
+  display: flex;
+}

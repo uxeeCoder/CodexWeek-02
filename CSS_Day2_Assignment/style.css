@@ -1,0 +1,75 @@
+h1{
+    color: blue;
+    background-color: beige ;
+    text-align: center;
+}
+
+.h1{
+    font-size: 2em;
+    font-family:'Playpen Sans', cursive ;
+    font-style: normal;
+    background-color: rgb(253, 227, 193);
+    text-indent: 10px;
+}
+
+.h2{
+    font-size:2rem ;
+    color: rgb(5, 86, 148);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-indent: 10px;
+}
+
+.p1{
+    text-align: center;
+    color: rgb(218, 115, 115);
+    margin: 30px;
+}
+.p2{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    background-color: rgb(214, 192, 195);
+    text-align: justify;
+    padding-inline: 50px;
+    padding-block: 20px;
+}
+
+.p3{
+    font-family: 'Playpen Sans', cursive;
+    max-width:700px;
+    text-align: justify;
+}
+
+.b1{
+    font-style: oblique;
+    color: rgb(247, 69, 15);
+    font-weight: 800;
+    border-color: blue;
+    padding: 10px;
+}
+
+   .b1:hover {
+    color: azure;
+    font-style: normal;
+    background-color: rgb(17, 17, 16);
+    border-color: rgb(243, 169, 8);   
+    border-radius: 20px 0px 20px 0px ;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.b2{
+    color: beige;
+    background-color: black;
+    padding: 10px;
+}
+
+.b2:hover{
+    font-family:'Times New Roman', Times, serif ;
+    font-weight: 700;
+    color: rgb(252, 252, 251);
+    background-color: rgb(99, 99, 145);
+    border-color: rgb(245, 141, 6);
+    border-radius: 50px;
+    cursor: pointer;
+    padding: 10px;
+}
